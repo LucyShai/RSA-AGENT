@@ -1,3 +1,6 @@
+<img width="756" height="857" alt="image" src="https://github.com/user-attachments/assets/3337cdb5-9506-47df-944f-c5608ada5000" />
+<img width="1675" height="879" alt="image" src="https://github.com/user-attachments/assets/f9038f12-d9a3-475e-8dab-7e25fb2c6105" />
+
 A comprehensive safety and emergency response platform for South Africa, integrating AI‑powered threat detection, real‑time incident reporting, and biometric‑secured access.
 
 🚀 Live Demo 👉https://rsa-agent.vercel.app/
