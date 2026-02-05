@@ -72,6 +72,7 @@ Real‑time updates with confidence scoring and responder assignment.
 Risk/Safety Scores: Numerical ratings (1‑10 risk, 0‑100 safety).
 
 Interactive overlays for quick navigation and decision‑making.
+Documentation https://capeitinitiative.sharepoint.com/:b:/s/topperformers/IQD_G00tkP_tToXN6n93qYm3AfM9jkaTnjMWL01AO_ie95g?e=VSzM56
 
 
 
